@@ -1,0 +1,56 @@
+Privacy Policy
+
+Last updated: June 1, 2026
+
+Copyright (c) 2026 Tyler Caselli. All Rights Reserved.
+
+OVERVIEW
+
+Web Dev Tools is an iOS application developed by Tyler Caselli. This privacy policy
+describes how the app handles information when you use it.
+
+The short version: Web Dev Tools does not collect, store, transmit, or share any
+personal data. Everything stays on your device.
+
+INFORMATION WE DO NOT COLLECT
+
+Web Dev Tools does not collect or transmit:
+  - Personal information (name, email, phone number, etc.)
+  - Device identifiers or advertising IDs
+  - Location data
+  - Usage analytics or crash reports
+  - Any data you enter into the app
+
+NETWORK REQUESTS YOU INITIATE
+
+When you use the app to check a domain or IP address, the app makes an outbound
+HTTP/HTTPS request directly from your device to the host you specify. No data from
+that request (including the URL, response, or certificate details) is sent to any
+server operated by the developer. The request goes only to the host you entered,
+and the results are displayed locally on your device.
+
+DATA STORAGE
+
+Web Dev Tools stores no data persistently. There is no local database, no keychain
+usage, and no iCloud sync. When you close the app, any displayed results are gone.
+
+THIRD-PARTY SERVICES
+
+Web Dev Tools does not integrate with any third-party analytics, advertising,
+crash-reporting, or data-collection services.
+
+CHILDREN'S PRIVACY
+
+Web Dev Tools does not knowingly collect any information from anyone, including
+children under the age of 13.
+
+CHANGES TO THIS POLICY
+
+If this policy changes in a future version of the app, the updated policy will be
+included with that release. Continued use of the app after any change constitutes
+acceptance of the revised policy.
+
+CONTACT
+
+If you have questions about this privacy policy, you may contact the developer at:
+  getintouch@tylercaselli.com
